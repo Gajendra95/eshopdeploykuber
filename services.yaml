@@ -165,7 +165,7 @@ spec:
   selector:
     app: eshop
     component: webmvc
-    type: NodePort
+  type: NodePort
 ---
 apiVersion: v1
 kind: Service
